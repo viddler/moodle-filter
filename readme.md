@@ -5,7 +5,7 @@ This Moodle Filter makes it possible to use Viddler's ShortCode embed code to em
 
 ## Installation instructions
 
-1. Download the latest version of the Viddler Moodle Filter.
+1. [https://github.com/viddler/moodle-filter/downloads](Download the latest version) of the Viddler Moodle Filter.
 2. Transfer the entire /viddler/ directory into your /filter/ directory on your Moodle installation.
 3. In Moodle go to Site Administration > Plugins > Filters > Manage Filters
 4. Enable the Viddler Moodle Filter to "On".
