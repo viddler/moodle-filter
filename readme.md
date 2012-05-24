@@ -1,5 +1,5 @@
 # The Viddler Moodle Filter
-[http://github.com/viddler/viddler-moodle-filter](github.com/viddler/viddler-moodle-filter)
+[http://github.com/viddler/moodle-filter](github.com/viddler/moodle-filter)
 
 This Moodle Filter makes it possible to use Viddler's ShortCode embed code to embed video directly into your Moodle LMS.
 
