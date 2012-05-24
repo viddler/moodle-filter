@@ -1,11 +1,11 @@
 # The Viddler Moodle Filter
-[http://github.com/viddler/moodle-filter](github.com/viddler/moodle-filter)
+[github.com/viddler/moodle-filter](http://github.com/viddler/moodle-filter)
 
 This Moodle Filter makes it possible to use Viddler's ShortCode embed code to embed video directly into your Moodle LMS.
 
 ## Installation instructions
 
-1. [https://github.com/viddler/moodle-filter/downloads](Download the latest version) of the Viddler Moodle Filter.
+1. [Download the latest version](https://github.com/viddler/moodle-filter/downloads) of the Viddler Moodle Filter.
 2. Transfer the entire /viddler/ directory into your /filter/ directory on your Moodle installation.
 3. In Moodle go to Site Administration > Plugins > Filters > Manage Filters
 4. Enable the Viddler Moodle Filter to "On".
@@ -19,9 +19,9 @@ This outputs an iframe embed code.
 
 ## Support
 
-- [http://viddler.com/](viddler.com)
-- [http://viddler.com/help](viddler.com/help)
-- [http://moodle.org/](moodle.org)
+- [viddler.com](http://viddler.com/)
+- [viddler.com/help](http://viddler.com/help)
+- [moodle.org](http://moodle.org/)
 
 ## Changelog
 
