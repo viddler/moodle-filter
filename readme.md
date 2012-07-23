@@ -17,6 +17,10 @@ Simply copy the ShortCode embed code from Viddler.com and paste it into your pos
 
 This outputs an iframe embed code.
 
+## How it works
+
+The filter_viddler in filter.php simply extends Moodle's built-in moodle_text_filter which filters text upon publishing. The /lang/en/filter_viddler.php contains a text string which Moodle's Admin area uses to name the plugin properly.
+
 ## Support
 
 - [viddler.com](http://viddler.com/)
